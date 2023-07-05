@@ -8,9 +8,7 @@ For **Advanced Programming** Course
 
 It Almost Contains All Subjects That A CS Student Should Know About Python.
 <br>
-If You Noticed An Unmentioned Important Subject, Please Open An Issue On Github.
-<br>
-Also If You Found A Problem Also Open An Issue On Github =)
+
 
 ✨ If You Found This Lecture Helpful, Please Star This Repo, It Would Be Appreciated ^_^
 
@@ -42,13 +40,19 @@ Finally, you can launch *JupyterLab* by running the command below:
 jupyter lab
 ```
 
-Now you can refer to Refer to [*PythonLectures.ipynb*](/PythonLectures.ipynb).
+Now you can refer to [*PythonLectures.ipynb*](/PythonLectures.ipynb).
 
 **Note**: During development, if you have installed new dependencies, please freeze them into `requirements.txt` for future use:
 
 ```shell
 pip3 freeze > requirements.txt
 ```
+## Contributing
+Contributions are welcomed! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. <br>
+If you noticed an unmentioned important subject, please open an issue on GitHub.
+
+## Acknowledgments
+- Special thanks to [Kazem Forghani](https://github.com/k-forghani) for his contributions in developing this project.
 
 ## License
 

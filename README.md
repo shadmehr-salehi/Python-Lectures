@@ -12,13 +12,13 @@ If You Noticed An Unmentioned Important Subject, Please Open An Issue On Github.
 <br>
 Also If You Found A Problem Also Open An Issue On Github =)
 
-- If You Found This Lecture Helpful, Please Star This Repo, It Would Be Appreciated ^_^
+✨ If You Found This Lecture Helpful, Please Star This Repo, It Would Be Appreciated ^_^
 
 ## Setting up
 
 ### Ubuntu
 
-Just run `setup.sh` to setup everything and then run `run.sh` to launch *JupyterLab*.
+Just run `setup.sh` to setup everything and then run `run.sh` to launch *JupyterLab*. Refer to [*PythonLectures.ipynb*](/PythonLectures.ipynb)
 
 ### Other Operating Systems
 
@@ -42,6 +42,8 @@ Finally, you can launch *JupyterLab* by running the command below:
 jupyter lab
 ```
 
+Now you can refer to Refer to [*PythonLectures.ipynb*](/PythonLectures.ipynb).
+
 **Note**: During development, if you have installed new dependencies, please freeze them into `requirements.txt` for future use:
 
 ```shell
@@ -51,15 +53,3 @@ pip3 freeze > requirements.txt
 ## License
 
 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](/LICENSE)
-
-You are free to:
-
-   - Share — copy and redistribute the material in any medium or format
-   - Adapt — remix, transform, and build upon the material
-   - for any purpose, even commercially.
-    
-Under the following terms:
-
-  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-  - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.

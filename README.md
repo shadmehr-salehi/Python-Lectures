@@ -1,4 +1,6 @@
-## Python Lectures
+# Python Lectures
+
+## Introduction
 
 <br> <span style="font-size: 30px;">Authored By <b> Shadmehr Salehi </b></span>
 <br> <span style="font-size: 22px;margin-left : 10px">For Advanced Programming Course</span>
@@ -7,6 +9,40 @@
 <span style="font-size: 25px;">It Almost Contains All Subjects That A CS Student Should Know About Python. <br> If You Noticed An Unmentioned Important Subject , Please Open An Issue On Github. <br> Also If You Found A Problem Also Open An Issue On Github =)</span>
 
 - <span style="font-size: 25px;"> If You Found This Lecture Helpful , Please Star This Repo , It Would Be Appreciated ^_^ </span><br>
+
+## Setting up
+
+### Ubuntu
+
+Just run `setup.sh` to setup everything and then run `run.sh` to launch *JupyterLab*.
+
+### Other Operating Systems
+
+First, install these dependencies:
+
+- `python3`
+- `python3-pip`
+- `python3-venv`
+
+Then, create a virtual environment and install all requirements into it:
+
+```bash
+python3 -m venv env
+. env/bin/activate
+pip3 install -r requirements.txt
+```
+
+Finally, you can launch *JupyterLab* by running the command below:
+
+```bash
+jupyter lab
+```
+
+**Note**: During development, if you have installed new dependencies, please freeze them into `requirements.txt` for future use:
+
+```shell
+pip3 freeze > requirements.txt
+```
 
 ## License
 

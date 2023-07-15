@@ -48,8 +48,9 @@ Now you can refer to [*PythonLectures.ipynb*](/PythonLectures.ipynb).
 pip3 freeze > requirements.txt
 ```
 ## Contributing
-Contributions are welcomed! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. <br>
-If you noticed an unmentioned important subject, please open an issue on GitHub.
+Contributions are welcomed! <br>
+For contributions please check our [contribution guidelines](/CONTRIBUTING.md).
+If you noticed an unmentioned important subject, please open an issue on GitHub directly.
 
 ## Acknowledgments
 - Special thanks to [Kazem Forghani](https://github.com/k-forghani) for his contributions in developing this project.

@@ -1,4 +1,5 @@
 # Python Lectures
+![python_notes](https://github.com/shadmehr-salehi/Python-Lectures/assets/56414145/3bf8e610-d042-4a69-82ea-c5d11dfa2a4d)
 
 ## Introduction
 

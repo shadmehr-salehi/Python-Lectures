@@ -1,6 +1,11 @@
 # Python Lectures
 ![python_notes](https://github.com/shadmehr-salehi/Python-Lectures/assets/56414145/3bf8e610-d042-4a69-82ea-c5d11dfa2a4d)
 
+# 🎉🎊Note : This Repository is under Hacktoberfest 2023
+##### 🔴 For Hacktober you have to STAR The Repository⭐, Open a PULL REQUEST & Get it Merged! 🎉 <br>
+##### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition rewards!🚀 <br>
+##### 📢 Register here for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to get awesome rewards! 🔥.
+
 ## Introduction
 
 Authored By **Shadmehr Salehi**
